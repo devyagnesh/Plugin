@@ -1,0 +1,14 @@
+{
+  "@plentymarkets/generator-plugin": {
+    "promptValues": {
+      "type": "template"
+    },
+    "answers": {
+      "name": "Plugin",
+      "author": "Developer",
+      "type": "template",
+      "description": "Test Plugin",
+      "version": "1.0"
+    }
+  }
+}

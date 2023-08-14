@@ -1,0 +1,11 @@
+{
+    "name"              :   "Plugin",
+    "namespace"         :   "Plugin",
+    "type"              :   "template",
+    "version"           :   "1.0",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "Test Plugin",
+    "author"            :   "Developer",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "Plugin\\Providers\\PluginServiceProvider"
+}
