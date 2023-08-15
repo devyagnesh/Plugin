@@ -1,6 +1,6 @@
 {
-    "name"              :   "Plugin",
-    "namespace"         :   "Plugin",
+    "name"              :   "Plugins",
+    "namespace"         :   "Plugins",
     "type"              :   "template",
     "version"           :   "1.0",
     "pluginIcon"        :   "icon_plugin_xs.png",
